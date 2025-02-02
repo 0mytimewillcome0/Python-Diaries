@@ -1,0 +1,6 @@
+# Modify the code so that nothing gets executed when you run it.
+# Do not delete any lines—just use comments!
+
+name = 'Alice'
+age = 30
+print(name, 'is', age, 'years old.')
