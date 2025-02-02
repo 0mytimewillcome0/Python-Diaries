@@ -1,12 +1,9 @@
-# Here are the answers. Live---Code---Learn---Repeat
+# The following code contains errors. Fix them so it prints correctly.
+# You'll know it is fixed when the code runs properly-
+# and the correct answer is printed on the screen to the right, under "Powered by Trinket"
+# use the examples I included in the blog post to get a hint. See what is missing.
 
-print("Python is fun!")
-print('Learning, Python is awesome!')
-print('5 times 3 is:', 5 * 3) # atleast with me, this line of code is run as -('5 times 3 is:', 15), while it should be- 5 times 3 is: 15 
-# its a problem with trinket.io, not the code. input it into PyCharm and it will run fine
-print('She said, "Practice makes perfect!"') 
-
-
-print('  ^_^  ')
-print(' (o.o) ')
-print('<(__)>')
+print "Python is fun!"
+print('Learning', 'Python' 'is' 'awesome!')
+print("5 times 3 is: " 5 * 3)
+print('She said, "Practice makes perfect!') 
