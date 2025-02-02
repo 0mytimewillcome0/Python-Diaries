@@ -1,0 +1,11 @@
+# Answer for Challenge 1a
+print("Python is fun!")
+print('Learning, Python is awesome!')
+print('5 times 3 is:', 5 * 3) # atleast with me, this line of code is run as -('5 times 3 is:', 15), while it should be- 5 times 3 is: 15 
+# if this happens, its a problem with trinket.io, not the code. input it into PyCharm and it will run fine
+print('She said, "Practice makes perfect!"') 
+
+# Answers for Challenge 1b
+print('  ^_^  ')
+print(' (o.o) ')
+print('<(__)>')
